@@ -1,0 +1,38 @@
+obj/local/armeabi/objs-debug/audioengine_static/Track.o: \
+ /home/wondervessel/Desktop/Desk/docs/hacks/games/flappybird/frameworks/cocos2d-x/cocos/audio/android/Track.cpp \
+ /home/wondervessel/Desktop/Desk/docs/hacks/games/flappybird/frameworks/cocos2d-x/cocos/audio/android/../../audio/android/cutils/log.h \
+ /home/wondervessel/Desktop/Desk/docs/hacks/games/flappybird/frameworks/cocos2d-x/cocos/audio/android/../../audio/android/Track.h \
+ /home/wondervessel/Desktop/Desk/docs/hacks/games/flappybird/frameworks/cocos2d-x/cocos/audio/android/../../audio/android/PcmData.h \
+ /home/wondervessel/NVPACK/android-ndk-r16b/sources/cxx-stl/gnu-libstdc++/4.9/include/string \
+ /home/wondervessel/NVPACK/android-ndk-r16b/sources/cxx-stl/gnu-libstdc++/4.9/include/vector \
+ /home/wondervessel/NVPACK/android-ndk-r16b/sources/cxx-stl/gnu-libstdc++/4.9/include/memory \
+ /home/wondervessel/Desktop/Desk/docs/hacks/games/flappybird/frameworks/cocos2d-x/cocos/audio/android/../../audio/android/IVolumeProvider.h \
+ /home/wondervessel/Desktop/Desk/docs/hacks/games/flappybird/frameworks/cocos2d-x/cocos/audio/android/../../audio/android/audio_utils/include/audio_utils/minifloat.h \
+ /home/wondervessel/Desktop/Desk/docs/hacks/games/flappybird/frameworks/cocos2d-x/cocos/audio/android/../../audio/android/PcmBufferProvider.h \
+ /home/wondervessel/Desktop/Desk/docs/hacks/games/flappybird/frameworks/cocos2d-x/cocos/audio/android/../../audio/android/AudioBufferProvider.h \
+ /home/wondervessel/Desktop/Desk/docs/hacks/games/flappybird/frameworks/cocos2d-x/cocos/audio/android/../../audio/android/utils/Errors.h \
+ /home/wondervessel/NVPACK/android-ndk-r16b/sources/cxx-stl/gnu-libstdc++/4.9/include/mutex
+
+/home/wondervessel/Desktop/Desk/docs/hacks/games/flappybird/frameworks/cocos2d-x/cocos/audio/android/../../audio/android/cutils/log.h:
+
+/home/wondervessel/Desktop/Desk/docs/hacks/games/flappybird/frameworks/cocos2d-x/cocos/audio/android/../../audio/android/Track.h:
+
+/home/wondervessel/Desktop/Desk/docs/hacks/games/flappybird/frameworks/cocos2d-x/cocos/audio/android/../../audio/android/PcmData.h:
+
+/home/wondervessel/NVPACK/android-ndk-r16b/sources/cxx-stl/gnu-libstdc++/4.9/include/string:
+
+/home/wondervessel/NVPACK/android-ndk-r16b/sources/cxx-stl/gnu-libstdc++/4.9/include/vector:
+
+/home/wondervessel/NVPACK/android-ndk-r16b/sources/cxx-stl/gnu-libstdc++/4.9/include/memory:
+
+/home/wondervessel/Desktop/Desk/docs/hacks/games/flappybird/frameworks/cocos2d-x/cocos/audio/android/../../audio/android/IVolumeProvider.h:
+
+/home/wondervessel/Desktop/Desk/docs/hacks/games/flappybird/frameworks/cocos2d-x/cocos/audio/android/../../audio/android/audio_utils/include/audio_utils/minifloat.h:
+
+/home/wondervessel/Desktop/Desk/docs/hacks/games/flappybird/frameworks/cocos2d-x/cocos/audio/android/../../audio/android/PcmBufferProvider.h:
+
+/home/wondervessel/Desktop/Desk/docs/hacks/games/flappybird/frameworks/cocos2d-x/cocos/audio/android/../../audio/android/AudioBufferProvider.h:
+
+/home/wondervessel/Desktop/Desk/docs/hacks/games/flappybird/frameworks/cocos2d-x/cocos/audio/android/../../audio/android/utils/Errors.h:
+
+/home/wondervessel/NVPACK/android-ndk-r16b/sources/cxx-stl/gnu-libstdc++/4.9/include/mutex:
